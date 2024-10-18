@@ -1,0 +1,58 @@
+p{
+    font-family:roboto;
+    margin-top:0;
+  }
+
+.video{
+  font-size:18px;
+  font-weight:bold;
+  text-align:left;
+  width:300px;
+  line-height:24px;
+  margin-bottom:5px;
+}
+
+.stats{
+  font-size:14px;
+  color:rgb(96,96,96);
+ margin-bottom:20px;
+}
+
+.marq{
+  font-size:14px;
+  color:rgb(96,96,96);
+  margin-bottom:20px;
+}
+
+.lab{
+  font-family:roboto;
+  font-size:14px;
+  color:rgb(96,96,96);
+  width:300px;
+  line-height:17px;
+  margin-bottom:60px;
+}
+
+.apple{
+  font-size:14px;
+  background-color:rgb(226, 28, 28);
+  color:white;
+  text-align:center;
+  padding:18px ;
+  margin-bottom:45px;
+  cursor:pointer;
+}
+
+.shop:hover{
+  text-decoration:underline;
+}
+
+.labi{
+  color:red;
+  cursor:pointer;
+  margin-left:12px;
+}
+
+.labi:hover{
+  text-decoration:underline;
+}

@@ -1,0 +1,60 @@
+a{
+    color: rgb(0,113,133)
+}
+
+a:hover{
+    color: pink;
+    font-size:large;
+}
+
+#para{
+    color: rgb(0,118,0);
+}
+
+.cart_button{
+    background-color: rgb(255,216,20);
+    color: black;
+    border-radius: 18px;
+    height:33px;
+    width: 100px;
+    border:none;
+    cursor:pointer;
+    transition: height 0.25s, height 0.25s, background-color 0.25s, color 0.25s;
+}
+
+.cart_button:hover{
+    background-color:chocolate;
+    color:blue;
+    width:126px;
+    height:43px;
+   box-shadow :5px 5px 10px rgba(0,0,0,0.25);
+}
+
+.cart_button:active{
+    background-color:red;
+    color:white;
+}
+
+.buy_button{
+    background-color: rgb(255,164,28);
+    color: black;
+    border-radius:18px;
+    border:none;
+    height:33px;
+    width: 100px;
+    cursor:pointer;
+    transition: height 0.25s, height 0.25s, background-color 0.25s, color 0.25s;
+}
+
+.buy_button:hover{
+    background-color:coral;
+    color:pink;
+    width:126px;
+    height:43px;
+    box-shadow :5px 5px 10px rgba(0,0,0,0.25);
+}
+
+.buy_button:active{
+    background-color:red;
+    color:white;  
+}
